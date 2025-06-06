@@ -1,0 +1,22 @@
+.oddnumber {
+  background-color: pink;
+  font:
+    Verdana,
+    DejaVu Sans,
+    sans-serif;
+}
+
+.oddnumber.someother {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
